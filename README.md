@@ -4,7 +4,7 @@
 ║   nkotov@github:~$  whoami                                   ║
 ║                                                              ║
 ║   Nick Kotov — DevOps Engineer & Developer                   ║
-║   🇺🇦 Ukraine  |  10+ years in production                    ║
+║   🇺🇦 Ukraine  |  10+ years in production                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
